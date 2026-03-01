@@ -4,8 +4,8 @@ Projeto de Análise de Dados desenvolvido em Python com o objetivo de demonstrar
 
 ---
 
-I. Objetivo do Projeto
-Realizar uma análise simples de dados de vendas, simulando um cenário real de negócio, para extrair métricas importantes e gerar visualizações que auxiliem na tomada de decisão.
+I. Objetivo do Projeto:
+- Realizar uma análise simples de dados de vendas, simulando um cenário real de negócio, para extrair métricas importantes e gerar visualizações que auxiliem na tomada de decisão.
 
 ---
 
@@ -32,8 +32,8 @@ analise-vendas-python/
 
 ---
 
-V. Conjunto de Dados
-O dataset utilizado é **fictício**, criado apenas para fins educacionais, contendo:
+V. Conjunto de Dados:
+- O dataset utilizado é **fictício**, criado apenas para fins educacionais, contendo:
 - Data da venda  
 - Produto  
 - Quantidade vendida  
